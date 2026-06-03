@@ -1,5 +1,6 @@
 import { useState, useEffect, useRef, useCallback } from 'react'
 import MarioCursor from './components/ui/MarioCursor'
+import IntroScreen from './components/ui/IntroScreen'
 import World1Sky from './components/worlds/World1Sky'
 import World3Underground from './components/worlds/World3Underground'
 import World4Skills from './components/worlds/World4Skills'
@@ -109,6 +110,7 @@ function useStarfield(canvasRef) {
 }
 
 export default function App() {
+  const [showIntro, setShowIntro] = useState(true)
   const [world, setWorld]          = useState(1)
   const [transitioning, setTrans]  = useState(false)
   const [secretVisible, setSecret] = useState(false)
@@ -163,6 +165,9 @@ export default function App() {
 
   return (
     <div style={{ width:'100vw', minHeight:'100svh', background:'#000', position:'relative', overflow:'hidden' }}>
+
+      {/* ── Intro screen — shown first, unmounts on enter ── */}
+      {showIntro && <IntroScreen onEnter={() => setShowIntro(false)} />}
 
       {/* ── Starfield + meteors canvas ── */}
       <canvas ref={canvasRef} style={{ position:'fixed', inset:0, zIndex:0, pointerEvents:'none' }} />
