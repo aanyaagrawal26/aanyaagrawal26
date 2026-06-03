@@ -1,68 +1,70 @@
 <div align="center">
 
-<!-- MARIO WORLD HEADER IMAGE - working pixel art via shields -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=200&section=header&text=AANYA%20AGRAWAL&fontSize=52&fontColor=000000&fontAlignY=38&desc=🍄%20PRESS%20START%20TO%20BEGIN%20🍄&descAlignY=60&descSize=18&descColor=8B4513" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=AANYA%20AGRAWAL&fontSize=60&fontColor=FFD700&fontAlignY=38&desc=🍄%20Full-Stack%20Dev%20·%20Cloud%20Engineer%20·%20AI%20Researcher&descAlignY=62&descSize=17&descColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2000&pause=800&color=FFD700&background=00000000&center=true&vCenter=true&multiline=false&width=600&height=40&lines=FULL-STACK+DEVELOPER+🌐;CLOUD+ENGINEER+☁️;AI+%2F+ML+RESEARCHER+🤖;SRMIST+CHENNAI+🎓;CGPA%3A+9.21+%2F+10.0+⭐)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=🎮+PRESS+START+TO+BEGIN;⭐+CGPA%3A+9.21+%2F+10.0;☁️+GCP+%2B+AWS+CERTIFIED;🏆+SIH+2024+FINALIST;🍄+ALWAYS+LEVELLING+UP)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🎮%20LIVE%20PORTFOLIO-FFD700?style=for-the-badge&logoColor=000000)](https://aanyaagrawal26.vercel.app)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aanya-agrawal-99b1a8322/)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aanyaagrawal260304@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aanyaagrawal26)&nbsp;
+[![Portfolio](https://img.shields.io/badge/🎮_LIVE_PORTFOLIO-FFD700?style=for-the-badge&logoColor=000)](https://aanyaagrawal26.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aanya-agrawal-99b1a8322/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aanyaagrawal260304@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aanyaagrawal26)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aanya24_6/)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/aanya-agrawal.1c0eee02/badges)
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=aanyaagrawal26&color=FFD700&style=for-the-badge&label=👾+PLAYERS+VISITED)
+![Profile Views](https://komarev.com/ghpvc/?username=aanyaagrawal26&color=FFD700&style=for-the-badge&label=👾+PLAYERS+VISITED)
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a0a00&height=3&section=header" width="100%"/>
-
 ## 🌤️ `< World 1 — The Origin Story />`
 
 <table>
 <tr>
-<td width="60%">
+<td width="55%">
 
 ```javascript
 const aanya = {
-  name           : "Aanya Agrawal",
-  university     : "SRMIST Chennai",
-  degree         : "B.Tech CSE — Cloud Computing",
-  cgpa           :  9.21,
-  role           : [
-    "Full-Stack Developer",
-    "Cloud Engineer",
-    "AI / ML Researcher"
+  name       : "Aanya Agrawal",
+  uni        : "SRMIST Chennai",
+  degree     : "B.Tech CSE — Cloud Computing",
+  cgpa       :  9.21,
+  roles      : [
+    "Full-Stack Developer 🌐",
+    "Cloud Engineer ☁️",
+    "AI / ML Researcher 🤖"
   ],
-  superpower     : "Turns coffee into cloud-native code ☁️🍄",
-  status         : "🟢 OPEN TO OPPORTUNITIES",
-  location       : "Chennai, India 🇮🇳",
-  certifications : "15+",
-  repos          : 27,
-  hackathons     : "5+",
-  secret         : "↑↑↓↓←→←→BA → 🌟 Galaxy Mode",
+  superpower : "Turns ☕ into cloud-native code",
+  status     : "🟢 OPEN TO OPPORTUNITIES",
+  location   : "Chennai, India 🇮🇳",
+  certs      : "15+",
+  repos      : 27,
+  hackathons : "5+ (SIH Finalist 🏆)",
+  secret     : "↑↑↓↓←→←→BA → 🌟 Galaxy Mode",
 }
 ```
 
 </td>
-<td width="40%" align="center">
+<td width="45%" align="center">
 
-🍄 **SRMIST Chennai**<br/>B.Tech CSE · Cloud Computing<br/><br/>
-⭐ **CGPA: 9.21 / 10.0**<br/><br/>
-🔬 **UROP AI Researcher**<br/><br/>
-🏆 **SIH 2024 Finalist**<br/><br/>
-☁️ **GCP + AWS Certified**<br/><br/>
-🟢 **Open to Opportunities**
+| 🏷️ | |
+|:--|:--|
+| 🎓 | SRMIST Chennai |
+| ⭐ | CGPA **9.21 / 10** |
+| 🔬 | UROP AI Researcher |
+| 🏆 | SIH 2024 **Finalist** |
+| ☁️ | GCP + AWS **Certified** |
+| 🪟 | Microsoft Elevate **✅** |
+| 📈 | McKinsey Forward **✅** |
+| 🟢 | **Open to Opportunities** |
 
 </td>
 </tr>
@@ -70,41 +72,33 @@ const aanya = {
 
 > *"Not dropped into a magic kingdom — just obsessed with building them."*
 
-- 🔬 **UROP Researcher** — AI-driven carbon footprint reduction in supply chains @ SRMIST
-- ☁️ **Google Cloud & AWS Certified** — Associate Cloud Engineer + Cloud Practitioner
-- 🏆 **SIH 2024 Finalist** — Built real-time AI disaster response system with ML
-- 🚀 **Live Portfolio** → an interactive 9-world Mario experience built with React + GSAP
-- 💼 Open to internships, full-time roles & collabs
-
 ---
 
 ## ⭐ `< World 3 — Power-Up Arsenal />`
 
 <div align="center">
 
-**⚔️ Languages & Frameworks**
+**Languages & Frameworks**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-A8B9CC?style=flat-square&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**☁️ Cloud & Tools**
+**Cloud & DevOps & Tools**
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -114,24 +108,57 @@ const aanya = {
 
 <div align="center">
 
-| 🗂️ Repos | ⭐ CGPA | 🏅 Certs | 🎯 Hackathons | 🔬 Research |
-|:---:|:---:|:---:|:---:|:---:|
-| **27** | **9.21 / 10** | **15+** | **5+** | **UROP @ SRMIST** |
+<table>
+<tr>
+<td align="center" width="20%">
+
+### 🗂️
+## 27
+**Repos**
+
+</td>
+<td align="center" width="20%">
+
+### ⭐
+## 9.21
+**CGPA**
+
+</td>
+<td align="center" width="20%">
+
+### 🏅
+## 15+
+**Certs**
+
+</td>
+<td align="center" width="20%">
+
+### 🎯
+## 5+
+**Hackathons**
+
+</td>
+<td align="center" width="20%">
+
+### 🔬
+## UROP
+**Research**
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
-<a href="https://github.com/aanyaagrawal26">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aanyaagrawal26&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=FFD700&icon_color=FFD700&text_color=ffffff&border_radius=10&rank_icon=github&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/aanyaagrawal26">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanyaagrawal26&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=FFD700&text_color=ffffff&border_radius=10&langs_count=8" />
-</a>
+<div align="center">
 
-<br/><br/>
+[![Aanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aanyaagrawal26&show_icons=true&theme=tokyonight&hide_border=true&title_color=FFD700&icon_color=FFD700&bg_color=0d1117&text_color=c9d1d9&include_all_commits=true&count_private=true)](https://github.com/aanyaagrawal26)&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aanyaagrawal26&layout=compact&theme=tokyonight&hide_border=true&title_color=FFD700&bg_color=0d1117&text_color=c9d1d9)](https://github.com/aanyaagrawal26)
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=aanyaagrawal26&theme=radical&hide_border=true&background=0d0d0d&stroke=FFD700&ring=FFD700&fire=FF8C00&currStreakLabel=FFD700&sideLabels=FFD700&dates=aaaaaa&border_radius=10" width="500"/>
-</a>
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=aanyaagrawal26&theme=tokyonight&hide_border=true&background=0d1117&stroke=FFD700&ring=FFD700&fire=FF8C00&currStreakLabel=FFD700&sideLabels=FFD700&dates=c9d1d9)](https://git.io/streak-stats)
 
 </div>
 
@@ -139,43 +166,61 @@ const aanya = {
 
 ## 🏰 `< World 4 — Projects Castle />`
 
-### 📊 DevPulse — GitHub Analytics & AI Dashboard
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+<table>
+<tr>
+<td width="50%">
+
+### 📊 DevPulse
+**GitHub Analytics + AI Dashboard**
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square)
 
-> AI-powered dashboard analyzing GitHub repos for code quality, security risks, and dev patterns — complete with interactive visualizations and RAG-driven insights.
+AI dashboard analyzing GitHub repos for code quality, security risks & dev patterns with RAG-driven insights.
 
----
+</td>
+<td width="50%">
 
-### 🤖 AI Multiverse OS — Multi-Agent AI System
+### 🤖 AI Multiverse OS
+**Multi-Agent AI System**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
-![AutoGen](https://img.shields.io/badge/AutoGen-FF6B6B?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-FF6B6B?style=flat-square)
 
-> A collaborative multi-agent system routing complex tasks across specialized AI models for smart multi-step reasoning and dynamic response generation.
+Multi-agent system routing complex tasks across AI models for smart multi-step reasoning.
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### 🌅 Sundown Clone — Immersive Frontend Experience
+### 🌅 Sundown Clone
+**Immersive Frontend Experience**
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![Canvas](https://img.shields.io/badge/Canvas_API-FF7300?style=flat-square&logoColor=white)
+![Canvas](https://img.shields.io/badge/Canvas_API-FF7300?style=flat-square)
 
-> Pixel-perfect recreation of a modern marketing site — silky scroll animations, canvas particle effects, zero-dependency interactions.
+Pixel-perfect marketing site recreation with silky scroll animations and canvas particle effects.
 
----
+</td>
+<td width="50%">
 
-### 🌱 Carbon AI Research — UROP @ SRMIST *(UN SDG 9 & 13)*
+### 🌱 Carbon AI — UROP Research
+**UN SDG 9 & 13 Aligned**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-> AI-driven carbon footprint analysis & reduction in supply chains. Published under SRM UROP. Aligned with UN SDGs 9 & 13.
+AI-driven carbon footprint analysis in supply chains. Published under SRM UROP program.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -199,40 +244,47 @@ const aanya = {
 
 ## 🏅 `< World 6 — Trophy Arcade />`
 
-| 🏆 Certification | 🏢 Issuer | 📅 |
-|:---|:---|:---:|
-| ☁️ Associate Cloud Engineer | Google Cloud | Oct 2024 |
-| 🟠 Cloud Practitioner | Amazon Web Services | Jan 2025 |
-| 🔷 Azure AI Fundamentals AI-900 | Microsoft | Feb 2025 |
-| 💰 SWE Virtual Simulation | JP Morgan Chase | Dec 2025 |
-| 📈 Forward Program | McKinsey & Company | Dec 2025 |
-| 🤖 ML Specialization | Stanford / Coursera | Mar 2025 |
-| ⭐ Gold Badge — Python & DSA | HackerRank | 2024 |
-| 🔬 UROP Research Grant | SRMIST | Aug 2025 |
-| 🏆 SIH 2024 — Grand Finalist | Govt. of India | Sep 2024 |
+<div align="center">
+
+| 🏆 | Certification | Issuer | 📅 |
+|:---:|:---|:---|:---:|
+| ☁️ | **Associate Cloud Engineer** | Google Cloud | Oct 2024 |
+| 🟠 | **Cloud Practitioner** | Amazon Web Services | Jan 2025 |
+| 🔷 | **Azure AI Fundamentals AI-900** | Microsoft | Feb 2025 |
+| 💰 | **SWE Virtual Simulation** | JP Morgan Chase | Dec 2025 |
+| 📈 | **McKinsey Forward Program** | McKinsey & Company | Dec 2025 |
+| 🤖 | **ML Specialization** | Stanford / Coursera | Mar 2025 |
+| ⭐ | **Gold Badge — Python & DSA** | HackerRank | 2024 |
+| 🔬 | **UROP Research Grant** | SRMIST | Aug 2025 |
+| 🏆 | **SIH 2024 Grand Finalist** | Govt. of India | Sep 2024 |
 
 > 📜 Full badge wall → [credly.com/users/aanya-agrawal.1c0eee02](https://www.credly.com/users/aanya-agrawal.1c0eee02/badges)
 
+</div>
+
 ---
 
-## 🎮 `< World 7 — The Portfolio (Featured Boss) />`
+## 🎮 `< World 7 — The Portfolio Boss />`
 
-> **9 interactive worlds, full game mechanics, real portfolio content.**  
-> Built with `React 19` `Vite` `GSAP` `Zustand` `Canvas API` `Three.js`
+> **9 interactive Mario worlds** · React 19 · Vite · GSAP · Zustand · Canvas API
 
-| 🌍 World | 🎯 Feature |
-|:---|:---|
-| 🌤️ **W1 — Home** | Pixel Mario canvas · Parallax sky · Question blocks · Pipe warp |
-| 👾 **W2 — About** | Typewriter bio · Bioluminescent crystals · Breakable secret wall |
-| ⭐ **W3 — Skills** | Power-up collection · Animated XP bars · Star mode unlock |
-| 🏰 **W4 — Projects** | Castle boss battles · Bug-fight mechanic · Trophy unlock system |
-| 🗺️ **W5 — Experience** | Interactive world map · Path unlock · Node detail cards |
-| 🏅 **W6 — Awards** | Retro arcade cabinet · Coin doors · Live high score ticker |
-| 💻 **W7 — Terminal** | Real interactive bash · 10+ commands · Autocomplete · Boot sequence |
-| ⚔️ **W8 — Stats** | RPG character sheet · GSAP stat bars · Equipment inventory |
-| ✉️ **W9 — Contact** | Final boss battle · Confetti victory · Form with validation |
+<div align="center">
 
-**🌟 Hidden secrets:** Konami code `↑↑↓↓←→←→BA` → Galaxy Mode · Click the HUD logo → coin pops · Break the secret wall in World 2
+| 🌍 World | Feature |
+|:---:|:---|
+| 🌤️ **W1** | Pixel Mario · Parallax sky · Question blocks · Pipe warp |
+| 👾 **W2** | Typewriter bio · Crystals · Breakable secret wall |
+| ⭐ **W3** | Power-up collection · XP bars · Star mode unlock |
+| 🏰 **W4** | Castle boss battles · Bug-fight mechanic · Trophies |
+| 🗺️ **W5** | Interactive map · Path unlock · Node cards |
+| 🏅 **W6** | Retro arcade cabinet · Coin doors · Score ticker |
+| 💻 **W7** | Real bash terminal · 10+ commands · Autocomplete |
+| ⚔️ **W8** | RPG character sheet · Stat bars · Inventory |
+| ✉️ **W9** | Final boss battle · Confetti · Form validation |
+
+</div>
+
+> 🌟 **Secret:** Type Konami code `↑↑↓↓←→←→BA` for Galaxy Mode 🌟
 
 ---
 
@@ -242,12 +294,11 @@ const aanya = {
 research = {
     "institution" : "SRM Institute of Science & Technology",
     "program"     : "Undergraduate Research Opportunities Program (UROP)",
-    "domain"      : "Sustainability & Supply Chain",
-    "topic"       : "AI-Driven Carbon Footprint Reduction in Logistics",
+    "topic"       : "AI-Driven Carbon Footprint Reduction in Supply Chains",
     "methods"     : ["Regression", "Classification", "Feature Engineering"],
-    "tools"       : ["Python", "Scikit-learn", "Pandas", "NumPy", "Matplotlib"],
-    "alignment"   : ["UN SDG 9 — Industry & Innovation",
-                     "UN SDG 13 — Climate Action"],
+    "tools"       : ["Python", "Scikit-learn", "Pandas", "NumPy"],
+    "sdg"         : ["SDG 9 — Industry & Innovation",
+                     "SDG 13 — Climate Action"],
     "status"      : "🟢 ACTIVE",
 }
 ```
@@ -257,17 +308,17 @@ research = {
 ## 🎯 `< Hackathon History />`
 
 ```
-╔═════════════════════════════════════════════════════════════════════╗
-║                                                                     ║
-║  🏆  FINALIST  ──▶  Smart India Hackathon 2024   │  Sep 2024       ║
-║         Built: Real-time AI Disaster Response System               ║
-║         Multi-modal alert routing + ML prediction engine           ║
-║                                                                     ║
-║  🎮  COMPETED  ──▶  CodeNex Club Hackathons       │  Multiple      ║
-║  🚀  COMPETED  ──▶  SRMIST Internal Events        │  Multiple      ║
-║                                                                     ║
-║         5+ hackathons participated & counting 🚀                   ║
-╚═════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║  🏆  FINALIST  ──▶  Smart India Hackathon 2024  │  Sep 2024     ║
+║         Real-time AI Disaster Response System                    ║
+║         Multi-modal alert routing + ML prediction                ║
+║                                                                  ║
+║  🎮  COMPETED  ──▶  CodeNex Club Events         │  Multiple     ║
+║  🚀  COMPETED  ──▶  SRMIST Internal Hackathons  │  Multiple     ║
+║                                                                  ║
+║          5+ hackathons and counting 🚀                           ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -276,7 +327,7 @@ research = {
 
 <div align="center">
 
-[![Aanya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aanyaagrawal26&bg_color=0d0d0d&color=FFD700&line=FFD700&point=FF8C00&area=true&area_color=FFD70033&hide_border=true)](https://github.com/aanyaagrawal26)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aanyaagrawal26&bg_color=0d1117&color=FFD700&line=FFD700&point=FF8C00&area=true&area_color=FFD70033&hide_border=true&title_color=FFD700)](https://github.com/aanyaagrawal26)
 
 </div>
 
@@ -286,20 +337,16 @@ research = {
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════╗
-║         READY TO TEAM UP? SEND A MESSAGE!             ║
-╠═══════════════════════════════════════════════════════╣
-║  📧  aanyaagrawal260304@gmail.com                     ║
-║  💼  linkedin.com/in/aanya-agrawal-99b1a8322          ║
-║  🐙  github.com/aanyaagrawal26                        ║
-║  💻  leetcode.com/u/aanya24_6                         ║
-║  🏅  credly.com/users/aanya-agrawal.1c0eee02          ║
-╚═══════════════════════════════════════════════════════╝
-```
+| | |
+|:---:|:---|
+| 📧 | aanyaagrawal260304@gmail.com |
+| 💼 | [linkedin.com/in/aanya-agrawal-99b1a8322](https://www.linkedin.com/in/aanya-agrawal-99b1a8322/) |
+| 🐙 | [github.com/aanyaagrawal26](https://github.com/aanyaagrawal26) |
+| 💻 | [leetcode.com/u/aanya24_6](https://leetcode.com/u/aanya24_6/) |
+| 🏅 | [credly.com/users/aanya-agrawal.1c0eee02](https://www.credly.com/users/aanya-agrawal.1c0eee02/badges) |
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer&text=THANKS+FOR+PLAYING%2C+PLAYER+ONE!&fontSize=20&fontColor=000000&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=140&section=footer&text=Thanks%20for%20playing%2C%20Player%20One!%20🍄&fontSize=22&fontColor=FFD700&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
