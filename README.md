@@ -154,7 +154,11 @@ const aanya = {
 
 <div align="center">
 
-[![Aanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aanyaagrawal26&show_icons=true&theme=tokyonight&hide_border=true&title_color=FFD700&icon_color=FFD700&bg_color=0d1117&text_color=c9d1d9&include_all_commits=true&count_private=true)](https://github.com/aanyaagrawal26)&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aanyaagrawal26&layout=compact&theme=tokyonight&hide_border=true&title_color=FFD700&bg_color=0d1117&text_color=c9d1d9)](https://github.com/aanyaagrawal26)
+<!-- Stats as always-working shield badges -->
+![Repos](https://img.shields.io/badge/Public_Repos-27-FFD700?style=for-the-badge&logo=github&logoColor=black)
+![Stars](https://img.shields.io/github/stars/aanyaagrawal26?style=for-the-badge&color=FFD700&logo=github&logoColor=black&label=Stars)
+![Followers](https://img.shields.io/github/followers/aanyaagrawal26?style=for-the-badge&color=00aaff&logo=github&logoColor=white&label=Followers)
+![CGPA](https://img.shields.io/badge/CGPA-9.21%2F10-00ff88?style=for-the-badge&logo=academia&logoColor=black)
 
 <br/>
 
