@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=🎮+PRESS+START+TO+BEGIN;⭐+CGPA%3A+9.21+%2F+10.0;☁️+GCP+%2B+AWS+CERTIFIED;🏆+SIH+2024+FINALIST;🍄+ALWAYS+LEVELLING+UP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=🎮+PRESS+START+TO+BEGIN;⭐+CGPA%3A+9.21+%2F+10.0;☁️+GCP+%2B+AWS+CERTIFIED;🍄+ALWAYS+LEVELLING+UP)](https://git.io/typing-svg)
 
 <br/>
 
@@ -47,7 +47,7 @@ const aanya = {
   location   : "Chennai, India 🇮🇳",
   certs      : "15+",
   repos      : 27,
-  hackathons : "5+ (SIH Finalist 🏆)",
+  hackathons : "5+",
   secret     : "↑↑↓↓←→←→BA → 🌟 Galaxy Mode",
 }
 ```
@@ -60,7 +60,6 @@ const aanya = {
 | 🎓 | SRMIST Chennai |
 | ⭐ | CGPA **9.21 / 10** |
 | 🔬 | UROP AI Researcher |
-| 🏆 | SIH 2024 **Finalist** |
 | ☁️ | GCP + AWS **Certified** |
 | 🪟 | Microsoft Elevate **✅** |
 | 📈 | McKinsey Forward **✅** |
@@ -180,7 +179,6 @@ const aanya = {
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square)
 
 AI dashboard analyzing GitHub repos for code quality, security risks & dev patterns with RAG-driven insights.
 
@@ -260,7 +258,6 @@ AI-driven carbon footprint analysis in supply chains. Published under SRM UROP p
 | 🤖 | **ML Specialization** | Stanford / Coursera | Mar 2025 |
 | ⭐ | **Gold Badge — Python & DSA** | HackerRank | 2024 |
 | 🔬 | **UROP Research Grant** | SRMIST | Aug 2025 |
-| 🏆 | **SIH 2024 Grand Finalist** | Govt. of India | Sep 2024 |
 
 > 📜 Full badge wall → [credly.com/users/aanya-agrawal.1c0eee02](https://www.credly.com/users/aanya-agrawal.1c0eee02/badges)
 
@@ -313,8 +310,7 @@ research = {
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║  🏆  FINALIST  ──▶  Smart India Hackathon 2024  │  Sep 2024     ║
+║                                                                  ║                                                            
 ║         Real-time AI Disaster Response System                    ║
 ║         Multi-modal alert routing + ML prediction                ║
 ║                                                                  ║
