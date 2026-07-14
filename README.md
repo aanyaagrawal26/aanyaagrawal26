@@ -36,7 +36,7 @@ const aanya = {
   name       : "Aanya Agrawal",
   uni        : "SRMIST Chennai",
   degree     : "B.Tech CSE — Cloud Computing",
-  cgpa       :  9.21,
+  cgpa       :  9.34,
   roles      : [
     "Full-Stack Developer 🌐",
     "Cloud Engineer ☁️",
@@ -58,7 +58,7 @@ const aanya = {
 | 🏷️ | |
 |:--|:--|
 | 🎓 | SRMIST Chennai |
-| ⭐ | CGPA **9.21 / 10** |
+| ⭐ | CGPA **9.34 / 10** |
 | 🔬 | UROP AI Researcher |
 | ☁️ | GCP + AWS **Certified** |
 | 🪟 | Microsoft Elevate **✅** |
@@ -119,7 +119,7 @@ const aanya = {
 <td align="center" width="20%">
 
 ### ⭐
-## 9.21
+## 9.34
 **CGPA**
 
 </td>
