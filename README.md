@@ -154,10 +154,10 @@ const aanya = {
 <div align="center">
 
 <!-- Stats as always-working shield badges -->
-![Repos](https://img.shields.io/badge/Public_Repos-27-FFD700?style=for-the-badge&logo=github&logoColor=black)
+![Repos](https://img.shields.io/badge/Public_Repos-34-FFD700?style=for-the-badge&logo=github&logoColor=black)
 ![Stars](https://img.shields.io/github/stars/aanyaagrawal26?style=for-the-badge&color=FFD700&logo=github&logoColor=black&label=Stars)
 ![Followers](https://img.shields.io/github/followers/aanyaagrawal26?style=for-the-badge&color=00aaff&logo=github&logoColor=white&label=Followers)
-![CGPA](https://img.shields.io/badge/CGPA-9.21%2F10-00ff88?style=for-the-badge&logo=academia&logoColor=black)
+![CGPA](https://img.shields.io/badge/CGPA-9.34%2F10-00ff88?style=for-the-badge&logo=academia&logoColor=black)
 
 <br/>
 
