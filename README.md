@@ -112,7 +112,7 @@ const aanya = {
 <td align="center" width="20%">
 
 ### 🗂️
-## 27
+## 34
 **Repos**
 
 </td>
